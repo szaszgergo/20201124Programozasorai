@@ -1,0 +1,52 @@
+body {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman';
+    color: #741B47;
+    padding-left: 5em;
+    padding-right: 5em;
+    background-image: url("hatter.jpg");
+}
+
+#vietekep {}
+
+div {
+    float: right;
+}
+
+#keplet {}
+
+#cim1 {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 2em;
+    margin-bottom: 0em;
+}
+
+#cim2 {
+    font-size: 1em;
+}
+
+#alcim2 {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 1.2em;
+    font-style: italic;
+    margin-top: 0em;
+}
+
+#alcim3 {
+    font-family: Verdana;
+    font-size: 1.2em;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#alcim4 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#keplet {
+    text-align: center;
+}
